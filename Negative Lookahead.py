@@ -1,1 +1,1 @@
-Regex_Pattern = '(.)(?!\1)'
+Regex_Pattern = '(?<![aeiouAEIOU])(.)'
